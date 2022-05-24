@@ -74,3 +74,5 @@ php artisan key:generate
 
 Acesse o projeto
 [http://localhost:8180](http://localhost:8180)
+
+Código criado a partir do Curso da EspecializaTI do Carlos Ferreira
